@@ -1,0 +1,15 @@
+{
+  "name": "source-code-black",
+  "repo": "typefaces/source-code-black",
+  "description": "The Source Code black typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "fonts": [
+    "fonts/source-code-black.eot",
+    "fonts/source-code-black.ttf",
+    "fonts/source-code-black.woff"
+  ]
+}
