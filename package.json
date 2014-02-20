@@ -1,0 +1,10 @@
+{
+  "name": "typefaces-source-code-black",
+  "description": "The Source Code black typeface.",
+  "version": "0.0.1",
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
